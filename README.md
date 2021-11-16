@@ -1,0 +1,2 @@
+# AutoSignIn_For_CJLUDorm
+一个可以丢在nas上的自动登录学校内网的脚本
